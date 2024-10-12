@@ -355,6 +355,7 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Flshop_EconomicNews' => 1,
+        'Flshop_ExchangeRate' => 1,
         'Flshop_Jumpstart' => 1,
         'Flshop_Weather' => 1,
         'PayPal_Braintree' => 1,
